@@ -8,6 +8,7 @@ George
 telegram: @george05v
 <br/>
 correo: georgevargas868@gmail.com
+<br/>
 compañero: Yadiel Arias
 
 <br/>
